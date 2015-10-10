@@ -1,1 +1,3 @@
-# dogpile
+# Dogpile
+
+Learning git.
