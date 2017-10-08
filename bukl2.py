@@ -7,7 +7,6 @@ import json
 
 import investigate
 
-
 def chunk(dlist, listmax):
     """Function to take arbitrary lists and split them to chunks of 1000 max."""
     listmax = max(1, listmax)
